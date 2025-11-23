@@ -1,4 +1,4 @@
-# 1.Hysteria2在Nodejs/Python一键脚本极简部署（Pterodactyl 翼龙面板）
+# 1.Hysteria2在Nodejs/Python一键脚本极简部署
 
 * 更新自适应端口，无需再手动设置
 
