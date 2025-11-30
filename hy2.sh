@@ -104,8 +104,7 @@ EOF
 
 # ---------- 获取服务器 IP ----------
 get_server_ip() {
-    IP=$(curl -s --max-time 10 https://api.ipify.org || echo "YOUR_SERVER_IP")
-    echo "$IP"
+    echo "100.92.233.116"
 }
 
 # ---------- 打印连接信息 ----------
@@ -147,6 +146,7 @@ main() {
 }
 
 main "$@"
+
 
 
 
